@@ -1,14 +1,14 @@
 {
   "name": "NEXYS.vodomer",
-  "version": "0.1.7", 
+  "version": "0.2.0", 
   "builds": [
     {
       "chipFamily": "ESP32",
       "ota": {
-        "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/0.1.7/nexys-vodomer.bin",
-        "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/0.1.7",
-        "summary": "Přidán senzor Hostname a vylepšena stabilita OTA. Vyvíjeno s láskou...Váš tým NEXYS!!!",
-        "md5": "29669c45e1ae5d0f4fbe317c83a73d96"
+        "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/0.2.0/nexys-vodomer-0-2-0.bin",
+        "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/0.2.0",
+        "summary": "Vyvíjeno s láskou...Váš tým NEXYS!!!",
+        "md5": "495368639C7300F086CF7C2F20BF328"
       }
     }
   ]
