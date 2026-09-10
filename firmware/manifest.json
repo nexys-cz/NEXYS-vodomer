@@ -1,6 +1,6 @@
 {
   "name": "NEXYS.vodomer",
-  "version": "0.2.1", 
+  "version": "0.2.7", 
   "builds": [
     {
       "chipFamily": "ESP32-S3",
