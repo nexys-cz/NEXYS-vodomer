@@ -1,20 +1,15 @@
 {
   "name": "NEXYS.vodomer",
-  "version": "0.4.0", 
+  "version": "3.2.0", 
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/0.4.0/nexys-vodomer.bin",
-        "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/0.4.0",
+        "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/3.1.0/nexys-vodomer.bin",
+        "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/3.1.0",
         "summary": "Vyvíjeno s láskou 🩵...Váš tým 🇳🇪🇽🇾🇸!!!",
-        "md5": "af70bbcd479618280d4ae34cc9d286f8"
+        "md5": "79212652027200c07ea5293ada294ca0"
       }
     }
   ]
 }
-
-
-
-
-
