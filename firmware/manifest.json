@@ -1,14 +1,14 @@
 {
-  "name": "NEXYS.stropni-senzor",
-  "version": "0.0.2",
+  "name": "NEXYS.vodomer",
+  "version": "3.1.0", 
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "path": "https://github.com/nexys-cz/nexys-stropni-senzor/releases/download/0.0.2/nexys-stropni-senzor.bin",
-        "release_url": "https://github.com/nexys-cz/nexys-stropni-senzor/releases/tag/0.0.2",
+        "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/3.1.0/nexys-vodomer.bin",
+        "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/3.1.0",
         "summary": "Vyvíjeno s láskou 💙... Váš tým NE✖YS !!!",
-        "md5": "30f342858096db5676a8218048e75d8d"
+        "md5": "79212652027200c07ea5293ada294ca0"
       }
     }
   ]
